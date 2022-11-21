@@ -4,5 +4,5 @@ nltk==3.4.5
 numpy==1.16.6
 google-cloud-storage==1.28.0
 transformers==2.8.0
-tensorflow==2.0.1
+tensorflow==2.9.3
 waitress==1.4.3
